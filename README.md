@@ -26,7 +26,7 @@ Neste repositório, você encontrará 3 pastas, sendo elas:
 
 Cada pasta contém os arquivos produzidos durante o processo de aprendiza, podendo incluir:
 - __assets__ : Pasta que contém imagens e documentações do processo de aprendizado;
-- __dataset__ : Pasta que contém arquivos csv para criar modelos de aprendizado de máquina;
+- __data__ : Pasta que contém arquivos csv para criar modelos de aprendizado de máquina;
 - __src__ : Pasta que contém os códigos utilizados durante os estudos; 
 - __README.md__ : Arquivo de texto que contém detalhes sobre o projeto;
 
