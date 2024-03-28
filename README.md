@@ -21,12 +21,13 @@ O Scikit-Learn é conhecido por sua simplicidade de uso, documentação completa
 
 
 Neste repositório, você encontrará 3 pastas, sendo elas:
-- 3 pastas com os;
+- 3 pastas com conteudo do repositorio;
 - 1 arquivo README com o detalhes sobre as informações ;
 
 Cada pasta contém os arquivos produzidos durante o processo de aprendiza, podendo incluir:
-- __src__ : Pasta que contém os códigos utilizados durante os estudos; 
 - __assets__ : Pasta que contém imagens e documentações do processo de aprendizado;
+- __dataset__ : Pasta que contém arquivos csv para criar modelos de aprendizado de máquina;
+- __src__ : Pasta que contém os códigos utilizados durante os estudos; 
 - __README.md__ : Arquivo de texto que contém detalhes sobre o projeto;
 
 
