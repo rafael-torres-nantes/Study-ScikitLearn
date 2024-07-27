@@ -1,4 +1,4 @@
-# Study-ScikitLearn
+# 🧠 Study-ScikitLearn
 
 Seja bem-vindo ao Repositório Scikit-Learn! Este espaço é dedicado à documentação e compartilhamento de conhecimentos sobre a biblioteca Scikit-Learn para aprendizado de máquina em Python. O repositório reúne estudos, materiais e reflexões sobre as práticas com Scikit-Learn, com o objetivo de fomentar o aprendizado e a troca de experiências entre a comunidade.
 
